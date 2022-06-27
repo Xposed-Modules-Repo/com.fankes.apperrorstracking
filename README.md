@@ -1,7 +1,7 @@
 # AppErrorsTracking
 
 ![Eclipse Marketplace](https://img.shields.io/badge/license-AGPL3.0-blue)
-![Eclipse Marketplace](https://img.shields.io/badge/version-v1.0-green)
+![Eclipse Marketplace](https://img.shields.io/badge/version-v1.0.1-green)
 
 Added more features to app's errors dialog, fixed custom rom deleted dialog, the best experience to Android developer.
 
