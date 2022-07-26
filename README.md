@@ -3,6 +3,8 @@
 ![Eclipse Marketplace](https://img.shields.io/badge/license-AGPL3.0-blue)
 ![Eclipse Marketplace](https://img.shields.io/badge/version-v1.0.1-green)
 
+## English
+
 Added more features to app's errors dialog, fixed custom rom deleted dialog, the best experience to Android developer.
 
 This project is an Xposed module that can be used in any Android system, currently only tested in **LSPosed**.
@@ -17,7 +19,7 @@ developers with more exception information to quickly solve problems.
 
 > Minimum support Android 8.1
 
-**应用异常跟踪**
+## 简体中文
 
 为原生 FC 对话框增加更多功能并修复国内定制 ROM 删除 FC 对话框的问题，给 Android 开发者带来更好的体验。
 
