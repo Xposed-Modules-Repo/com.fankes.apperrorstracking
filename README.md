@@ -19,6 +19,10 @@ developers with more exception information to quickly solve problems.
 
 > Minimum support Android 8.1
 
+Xposed-Modules-Repo has a certain length of cache, if the latest version cannot be downloaded, please go to the following address to download
+
+[Release](https://github.com/KitsunePie/AppErrorsTracking/releases)
+
 ## 简体中文
 
 为原生 FC 对话框增加更多功能并修复国内定制 ROM 删除 FC 对话框的问题，给 Android 开发者带来更好的体验。
