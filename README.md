@@ -1,7 +1,7 @@
 # AppErrorsTracking
 
 ![Eclipse Marketplace](https://img.shields.io/badge/license-AGPL3.0-blue)
-![Eclipse Marketplace](https://img.shields.io/badge/version-v1.0.1-green)
+![Eclipse Marketplace](https://img.shields.io/badge/version-v1.1-green)
 
 ## English
 
