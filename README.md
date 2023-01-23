@@ -17,7 +17,7 @@ of any installed apps, so as to quickly locate the problem.
 The error log of apps crashing is an invaluable asset for developers. If you are not a developer, you can still install this module to provide
 developers with more exception information to quickly solve problems.
 
-> Minimum support Android 8.1
+> Minimum support Android 7.0
 
 Xposed-Modules-Repo has a certain length of cache, if the latest version cannot be downloaded, please go to the following address to download
 
@@ -35,7 +35,7 @@ Xposed-Modules-Repo has a certain length of cache, if the latest version cannot 
 
 应用发生崩溃的错误日志对开发者来说是无价的财富，若你不是开发者，你依然可以安装此模块，以便给开发者提供更多异常信息快速解决问题。
 
-> 最低支持 Android 8.1
+> 最低支持 Android 7.0
 
 Xposed-Modules-Repo 有一定时长的缓存，若最新版本无法下载请前往如下地址下载
 
