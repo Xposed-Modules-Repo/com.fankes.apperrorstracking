@@ -45,7 +45,7 @@ This project also uses **SweetDependency** and **SweetProperty**.
 
 ## Contribution
 
-This Xposed Module is built using [YukiHookAPI](https://github.com/fankes/YukiHookAPI)
+This Xposed Module is built using [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
 
 YukiHookAPI is an efficient Hook API and Xposed Module solution built in Kotlin, making your Xposed Module development easier.
 
