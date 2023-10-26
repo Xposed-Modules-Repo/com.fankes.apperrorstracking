@@ -33,6 +33,24 @@ developers with more exception information to quickly solve problems.
 
 > Minimum support Android 7.0
 
+## Release Channel
+
+| <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width = "30" height = "30" alt="LOGO"/> | [GitHub CI](https://github.com/KitsunePie/AppErrorsTracking/actions/workflows/commit_ci.yml) | CI automatic build (test version) |
+|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------|
+
+| <img src="https://github.com/peter-iakovlev/Telegram/blob/public/Icon.png?raw=true" width = "30" height = "30" alt="LOGO"/> | [Telegram CI Channel](https://t.me/AppErrorsTracking_CI) | CI automatic build (test version) |
+|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------|
+
+| <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width = "30" height = "30" alt="LOGO"/> | [GitHub Releases](https://github.com/KitsunePie/AppErrorsTracking/releases) | Formal edition (stable version) |
+|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------|
+
+| <img src="https://avatars.githubusercontent.com/u/78217009?s=200&v=4?raw=true" width = "30" height = "30" alt="LOGO"/> | [Xposed-Modules-Repo](https://github.com/Xposed-Modules-Repo/com.fankes.apperrorstracking/releases) | Formal edition (stable version) |
+|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------|
+
+The releases of this Xposed Module is limited to the urls listed above.
+
+We have nothing to do with versions downloaded from other informal channels or any impact on you.
+
 ## Promotion
 
 If you are looking for a Gradle plugin that can automatically manage Gradle project dependencies,
@@ -66,6 +84,22 @@ Copyright © 2017-2023 Fankes Studio(qzmmcn@163.com)
 应用发生崩溃的错误日志对开发者来说是无价的财富，若你不是开发者，你依然可以安装此模块，以便给开发者提供更多异常信息快速解决问题。
 
 > 最低支持 Android 7.0
+
+## 发行渠道
+
+| <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width = "30" height = "30" alt="LOGO"/> | [GitHub CI](https://github.com/KitsunePie/AppErrorsTracking/actions/workflows/commit_ci.yml) | CI 自动构建 (测试版) |
+|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------|
+
+| <img src="https://github.com/peter-iakovlev/Telegram/blob/public/Icon.png?raw=true" width = "30" height = "30" alt="LOGO"/> | [Telegram CI 频道](https://t.me/AppErrorsTracking_CI) | CI 自动构建 (测试版) |
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|---------------|
+
+| <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width = "30" height = "30" alt="LOGO"/> | [GitHub Releases](https://github.com/KitsunePie/AppErrorsTracking/releases) | 正式版 (稳定版) |
+|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------|
+
+| <img src="https://avatars.githubusercontent.com/u/78217009?s=200&v=4?raw=true" width = "30" height = "30" alt="LOGO"/> | [Xposed-Modules-Repo](https://github.com/Xposed-Modules-Repo/com.fankes.apperrorstracking/releases) | 正式版 (稳定版) |
+|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|
+
+本模块发布地址仅限于上述所列出的地址，从其他非正规渠道下载到的版本或对您造成任何影响均与我们无关。
 
 ## 项目推广
 
