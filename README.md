@@ -62,7 +62,7 @@ We have nothing to do with versions downloaded from other informal channels or a
      <h1><a href="https://github.com/fankes/fankes/blob/main/project-promote/README.md">→ To see more about my projects, please click here ←</a></h1>
 </div>
 
-## Contribution
+## Contribution 
 
 This Xposed Module is built using [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
 
