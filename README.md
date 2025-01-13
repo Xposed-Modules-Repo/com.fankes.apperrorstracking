@@ -68,7 +68,7 @@ This Xposed Module is built using [YukiHookAPI](https://github.com/HighCapable/Y
 
 YukiHookAPI is an efficient Hook API and Xposed Module solution built in Kotlin, making your Xposed Module development easier.
 
-Copyright © 2017-2024 Fankes Studio(qzmmcn@163.com)
+Copyright © 2017 Fankes Studio(qzmmcn@163.com)
 
 ## 介绍
 
@@ -125,4 +125,4 @@ Copyright © 2017-2024 Fankes Studio(qzmmcn@163.com)
 
 YukiHookAPI 是一个使用 Kotlin 重构的高效 Hook API 构建工具，让你的 Xposed 模块开发变得更加简单。
 
-版权所有 © 2017-2024 Fankes Studio(qzmmcn@163.com)
+版权所有 © 2017 Fankes Studio(qzmmcn@163.com)
